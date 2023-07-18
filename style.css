@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    padding: 8px;
+   text-align: center;
+   border: double; 
+}
+td:hover {
+    background-color:aqua
+}
+th {
+    background-color: aqua;
+}
+caption{
+    font-size: 50px;
+}
+td, tr ,table{
+    background-color: rgba(28, 206, 206, 0.323);
+} 
